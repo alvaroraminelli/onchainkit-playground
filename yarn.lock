@@ -218,9 +218,10 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@coinbase/onchainkit@link:../onchainkit":
-  version "0.0.0"
-  uid ""
+"@coinbase/onchainkit@latest":
+  version "0.4.5"
+  resolved "https://registry.npmjs.org/@coinbase/onchainkit/-/onchainkit-0.4.5.tgz#5c506adb8f375439da063331c4dac9826850172d"
+  integrity sha512-kqyVQ0G07rqJz1zIc0BnJWOmA+ZWS87Zl1MEsZyqkiRhrJdA4E5E9ERP6Qe2s9K7XCRcdJ3jeUXc9okp6injRQ==
 
 "@esbuild/aix-ppc64@0.19.12":
   version "0.19.12"
